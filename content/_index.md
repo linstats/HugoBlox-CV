@@ -31,9 +31,8 @@ sections:
     #       position: center
     #       parallax: false
   - block: collection
-    id: papers
     content:
-      title: Featured Publications
+      title: Archives
       filters:
         folders:
           - publication

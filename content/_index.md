@@ -35,7 +35,7 @@ sections:
       title: Archives
       filters:
         folders:
-          - publication
+          - teaching
         featured_only: true
     design:
       view: article-grid

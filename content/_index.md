@@ -36,6 +36,8 @@ sections:
       filters:
         folders:
           - teaching
+          - badminton
+          - statistics
         featured_only: true
     design:
       view: article-grid

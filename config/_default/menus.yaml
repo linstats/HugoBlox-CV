@@ -7,9 +7,6 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Experience
-    url: experience/
-    weight: 20
   - name: Statistics
     url: statistics/
     weight: 30
@@ -19,3 +16,6 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
+  - name: Experience
+    url: experience/
+    weight: 50

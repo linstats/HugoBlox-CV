@@ -33,10 +33,10 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Archives
+      title: Featured Publications
       filters:
         folders:
-          - teaching
+          - publication
         featured_only: true
     design:
       view: article-grid
